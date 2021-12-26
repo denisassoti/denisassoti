@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="#egbakou-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&count_private=true&show_icons=true&theme=react&include_all_commits=true" alt="Egbakou" align="right" />
+</a>

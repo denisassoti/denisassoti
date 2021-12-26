@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 <br>
-
 <h2 align="left" id="denisassoti">Favorite Techs & tools</h2>
 <table align="center">
   <tr>
@@ -50,13 +49,6 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#denisassoti">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    
-    <td align="center" width="96">
-      <a href="#denisassoti">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="VueJS" />
       </a>
       <br>Vue JS
@@ -67,8 +59,13 @@ Here are some ideas to get you started:
       </a>
       <br>Angular
     </td>
+    <td align="center" width="96">
+        <a href="#denisassoti">
+          <img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React-icon.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React JS
+      </td>
   </tr>
-  
   <tr>
    <td align="center" width="96">
       <a href="#denisassoti" >
@@ -82,28 +79,24 @@ Here are some ideas to get you started:
       </a>
       <br>Linux
     </td>
-     <td align="egbakou" width="96">
-      <a href="#denisassoti">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
+    <td align="center" width="96">
+        <a href="#denisassoti">
+          <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+        </a>
+        <br>Azure
     </td>
-    
-    
     <td align="center" width="96">
       <a href="#denisassoti">
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    
     <td align="center" width="96">
         <a href="#denisassoti" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" width="48" height="48" alt="Laravel" />
         </a>
         <br>Laravel
     </td>
-
     <td align="center" width="96">
       <a href="#denisassoti" >
         <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="48" height="48" alt="FastApi" />
@@ -111,5 +104,4 @@ Here are some ideas to get you started:
       <br>FastApi
     </td>
   </tr>
-    
 </table>

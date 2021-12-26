@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#egbakou-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&count_private=true&show_icons=true&theme=react&include_all_commits=true" alt="Egbakou" align="right" />
+<a href="#denisassoti-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti" align="right" />
 </a>

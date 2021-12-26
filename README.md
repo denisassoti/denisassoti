@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-
 <br>
 
 <h2 align="left" id="egbakou-tech">Favorite Techs & tools</h2>

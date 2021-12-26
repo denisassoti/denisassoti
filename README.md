@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <br>
+
 <h2 align="left" id="denisassoti">Favorite Techs & tools</h2>
 <table align="center">
   <tr>
@@ -28,12 +29,18 @@ Here are some ideas to get you started:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
         </a>
         <br>Python
-      </td>
+    </td>
     <td align="center" width="96">
       <a href="#denisassoti">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="48" height="48" alt="Dotnet" />
+        <img src="https://fr.wikipedia.org/wiki/C_sharp#/media/Fichier:C_Sharp_wordmark.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>.NET
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <a href="#denisassoti">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="48" height="48" alt="Dotnet" />
+        </a>
+        <br>.NET
     </td>
      <td align="center" width="96">
       <a href="#denisassoti">
@@ -61,7 +68,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="#denisassoti">
-          <img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React-icon.svg" width="48" height="48" alt="React" />
+          <img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React-icon.png" width="48" height="48" alt="React" />
         </a>
         <br>React JS
       </td>

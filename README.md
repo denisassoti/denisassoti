@@ -120,5 +120,5 @@ Here are some ideas to get you started:
 <h2 align="left" id="denisassoti">😎Social media</h2>
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/)
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+33616578792?text=cc🖖)
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+33616578792?text=cc)
 

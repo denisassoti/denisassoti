@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Me
 - ⚡ Fun fact: ...
 - [![Resume]()](https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing) 
+- https://img.shields.io/static/v1?label=<LABEL>&message=Resume&color=blue
 <!-- 
 <a>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" align="left" />

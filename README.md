@@ -127,5 +127,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" align="right" />
 </a>
 
-https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing
+<a href="#denisassoti-title" target="_blank">
+  <img src="https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing" alt="denisassoti" align="right" />
+</a>
+
+
 

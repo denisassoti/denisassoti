@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Me
 - ⚡ Fun fact: ...
-- [![Resume](https://img.shields.io/static/v1?label=<LABEL>&message=Resume&color=blue)](https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing) 
+- [![Resume](https://img.shields.io/static/v1?label=CV&message=Resume&color=blue)](https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing) 
 
 <!-- 
 <a>

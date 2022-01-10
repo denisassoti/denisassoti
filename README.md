@@ -118,4 +118,5 @@ Here are some ideas to get you started:
 </table>
 
 <h2 align="left" id="denisassoti">😎Social media</h2>
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/)

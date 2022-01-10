@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" align="left" />
 </a> -->
 
-<h2 align="left" id="denisassoti">👨‍💻Favorite Techs & tools</h2>
+<h2 align="left" id="denisassoti">👨‍💻My Favorite Techs & tools</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h2 align="left" id="denisassoti">😎Social media</h2>
+<h2 align="left" id="denisassoti">😎My Social media</h2>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/) 

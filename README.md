@@ -123,4 +123,8 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/) 
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](+33616578792?text=cc)
 
+<h2 align="left" id="denisassoti">🤖My Stats</h2>
+<a href="#denisassoti-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti"  />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 

@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started:
 
-<a href="#denisassoti-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti" align="right" />
-</a>
-
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning c# / .Net
 - 👯 I’m looking to collaborate on ...
@@ -126,9 +122,7 @@ Here are some ideas to get you started:
 <h2 align="left" id="denisassoti">🤖My Stats</h2>
 <a href="#denisassoti-title">
   <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti"  />
-</a>
-
-<a href="#denisassoti-title">
+</a> <a href="#denisassoti-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" align="right" />
 </a>
 

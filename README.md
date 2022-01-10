@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" align="left" />
 </a> -->
 
-
 <br>
 
 <h2 align="left" id="denisassoti">👨‍💻Favorite Techs & tools</h2>
@@ -113,16 +112,23 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<br>
+
 <h2 align="left" id="denisassoti">😎Social media</h2>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/) 
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](+33616578792?text=cc)
 
+<br>
+
 <h2 align="left" id="denisassoti">🤖My Stats</h2>
+
 <a href="#denisassoti-title">
   <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti"  />
-</a> <a href="#denisassoti-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" />
+</a> 
+
+<a href="#denisassoti-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" align="right" />
 </a>
 

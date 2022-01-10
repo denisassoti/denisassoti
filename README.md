@@ -122,3 +122,5 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/) 
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](+33616578792?text=cc)
+
+<img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=donne12&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donne12&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 

@@ -60,12 +60,6 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#denisassoti">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JS" />
-      </a>
-      <br>JS
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="VueJS" />
       </a>
       <br>Vue JS

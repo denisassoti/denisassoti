@@ -76,14 +76,14 @@ Here are some ideas to get you started:
       </a>
       <br>Angular
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <a href="#denisassoti">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="65" height="65" alt="React" />
         </a>
         <br>React JS
       </td>
-  </tr>
-  <tr>
    <td align="center" width="96">
       <a href="#denisassoti" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />

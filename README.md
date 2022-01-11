@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 <a href="#denisassoti-title">
   <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti"  />
 </a> 
-
+<br>
 <a href="#denisassoti-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" align="right" />
 </a>

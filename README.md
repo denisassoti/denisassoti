@@ -38,7 +38,7 @@ Here are some ideas to get you started:
         <a href="#denisassoti">
           <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="Dotnet" />
         </a>
-        <br>.NET
+        <br>.NET Core
     </td>
     <td align="center" width="96">
         <a href="#denisassoti">

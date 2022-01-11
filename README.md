@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#denisassoti">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" alt="C#" />
       </a>
       <br>C#
     </td>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" alt="React" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="65" height="65" alt="React" />
         </a>
         <br>React JS
       </td>

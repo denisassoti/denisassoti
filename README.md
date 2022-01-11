@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 My name is **Lidaou Denis ASSOTI** (LidaouDA)
-Currently in the second year of the engineering cycle (Master 1) in Computer Sciences at Polytech’ Nice Sophia Antipolis engineering school![image](https://user-images.githubusercontent.com/58354924/148968399-051d11b3-1ed1-424b-8399-9e88a735815b.png)
-Currently in the second year of the engineering cycle (Master 1) in Computer Sciences at Polytech’ Nice Sophia Antipolis engineering school![Uploading image.png…]()
-
+I am currently in the second year of the engineering cycle (Master 1) of **Computer Sciences** at **Polytech’ Nice Sophia Antipolis** Engineering School!
 
 Here are some ideas to get you started:
 

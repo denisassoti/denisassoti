@@ -104,6 +104,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="#denisassoti" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="48" height="48" alt="SpringBoot" />
+        </a>
+        <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+        <a href="#denisassoti" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" width="48" height="48" alt="Laravel" />
         </a>
         <br>Laravel

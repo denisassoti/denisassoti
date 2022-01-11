@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Lidaou Denis ASSOTI**
+My name is **Lidaou Denis ASSOTI** (LidaouDA)
 
 Here are some ideas to get you started:
 

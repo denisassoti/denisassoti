@@ -8,7 +8,7 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my portfolio (Coming soon)
 - 🌱 I’m currently learning c# / .Net
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

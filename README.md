@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#denisassoti">
-        <img src="https://fr.wikipedia.org/wiki/C_sharp#/media/Fichier:C_Sharp_wordmark.svg" width="48" height="48" alt="C#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>

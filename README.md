@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="#denisassoti">
-          <img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React-icon.png" width="48" height="48" alt="React" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
         </a>
         <br>React JS
       </td>

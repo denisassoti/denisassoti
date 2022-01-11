@@ -6,7 +6,7 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
 <img src="polytech.jpg"  />
 
 
-Here are some ideas to get you started:
+<h2 align="left" id="denisassoti">😁 About me</h2>
 
 - 🔭 I’m currently working on my portfolio (Coming soon)
 - 🌱 I’m currently learning c# / .Net

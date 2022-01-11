@@ -3,6 +3,9 @@
 My name is **Lidaou Denis ASSOTI** (LidaouDA)
 I am currently in the second year of the engineering cycle (Master 1) of **Computer Sciences** at **Polytech’ Nice Sophia Antipolis** Engineering School!
 
+<img src="epu.png" width="48" height="48" />
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio

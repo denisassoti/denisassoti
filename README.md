@@ -110,7 +110,7 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
         <a href="#denisassoti" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="65" height="65" alt="SpringBoot" />
         </a>
-        <br>Spring Boot
+        <br>Spring
     </td>
     <td align="center" width="96">
         <a href="#denisassoti" >

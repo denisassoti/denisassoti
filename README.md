@@ -62,18 +62,6 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="96">
-      <a href="#denisassoti">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="VueJS" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti">
-        <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">

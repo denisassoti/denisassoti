@@ -40,12 +40,6 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
     </td>
     <td align="center" width="96">
         <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="Dotnet" />
-        </a>
-        <br>.NET Core
-    </td>
-    <td align="center" width="96">
-        <a href="#denisassoti">
           <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="48" height="48" alt="Dotnet" />
         </a>
         <br> Java
@@ -83,12 +77,6 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
       <br>Linux
     </td>
     <td align="center" width="96">
-        <a href="#denisassoti">
-          <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-        </a>
-        <br>Azure
-    </td>
-    <td align="center" width="96">
       <a href="#denisassoti">
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
       </a>
@@ -99,18 +87,6 @@ I am currently in the second year of the engineering cycle (Master 1) of **Compu
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="65" height="65" alt="SpringBoot" />
         </a>
         <br>Spring
-    </td>
-    <td align="center" width="96">
-        <a href="#denisassoti" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" width="48" height="48" alt="Laravel" />
-        </a>
-        <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti" >
-        <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="48" height="48" alt="FastApi" />
-      </a>
-      <br>FastApi
     </td>
   </tr>
 </table>

@@ -1,112 +1,63 @@
-### Hi there 👋
+# PortfolioV2
 
-My name is **Lidaou Denis ASSOTI** (LidaouDA) <br>
-I am currently in the third year of the engineering cycle of **Computer Sciences** at **Polytech’ Nice Sophia Antipolis** Engineering School in France(Sophia Antipolis). 
+![PortfolioV2](/images/portfolio1.gif)
 
-<img src="polytech.jpg"  />
+### A clean portfolio template. (Readme will be updated soon)
 
+# Sections
 
-<h2 align="left" id="denisassoti">😁 About me</h2>
+- Home
+- Education
+- Experience
+- Projects
+- Contact
 
-- 🔭 I’m currently working on my portfolio (Coming soon)
-- 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java/spring
-- 📫 How to reach me: ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
-- [![Resume](https://img.shields.io/static/v1?label=CV&message=Resume&color=blue)](https://drive.google.com/file/d/1R7NaoUdvCIz6GU1UrxwdJ-TteOn0HfQf/view?usp=sharing) 
+# How To Use
 
-<!-- 
-<a>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" align="left" />
-</a> -->
+- Clone this repository (or fork, then clone your fork :) )
+- Run `npm i`
+- Check it out using `npm start`
 
-<h2 align="left" id="denisassoti">👨‍💻 My Favorite Techs & tools</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="48" height="48" alt="Dotnet" />
-        </a>
-        <br> Java
-    </td>
-    <td align="center" width="96">
-        <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="Dotnet" />
-        </a>
-        <br> C++
-    </td>
-     <td align="center" width="96">
-      <a href="#denisassoti">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <a href="#denisassoti">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="65" height="65" alt="React" />
-        </a>
-        <br>React JS
-      </td>
-   <td align="center" width="96">
-      <a href="#denisassoti" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#denisassoti">
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <a href="#denisassoti" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="65" height="65" alt="SpringBoot" />
-        </a>
-        <br>Spring
-    </td>
-  </tr>
-</table>
+# How Do I Customize
 
-<h2 align="left" id="denisassoti">😎 My Social media & professional accounts</h2>
+- Replace `homepage` in package.json to your domain name or `https://<username>.github.io`
+- In `src/portfolio.js` you can add your personal portfolio details.
+- In `src/theme.js` you can change the theme colors. You can change between Light and Dark theme with the theme switch on the header.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisassoti/) 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denisassoti/) 
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](+33616578792?text=cc)
-[![Gitlab](https://img.shields.io/badge/gitlab-f87100?&style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/denisassoti)
+# How to Deploy
 
+- Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
+- I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
+- To deploy your website, you have two options. First you need to create a github repository with the name `<your-github-username>.github.io`. Please don't give it any other name.
+- Now, you need to generate a production build and deploy the website.
 
-<h2 align="left" id="denisassoti">🤖 My Stats</h2>
+**Option 1:**
 
-<a href="#denisassoti-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisassoti&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="denisassoti"  />
-</a> 
-<br>
-<a href="#denisassoti-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisassoti&layout=compact" alt="denisassoti" align="right" />
-</a>
+- Run `npm run build` to generate the production build folder.
+- Enter the build folder, `git init` and push the generated code to the `master` branch of your new repository. That's it. Done.
+  You may need to `git init` and force push at every new build.
 
+**Option 2 (will not work with [user pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)):**
 
+- Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
+- The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
+
+Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
+
+# Technologies used 🛠️
+
+- [React](https://reactjs.org/)
+- [graphql](https://graphql.org/)
+- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
+- [baseui](https://github.com/uber/baseweb)
+- [react-reveal](https://www.react-reveal.com/)
+- [styled-components](https://styled-components.com/)
+
+# illustrations 🍥
+
+- [UnDraw](https://undraw.co/illustrations)
+
+# References
+
+Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
+Illustrations: https://undraw.co/
